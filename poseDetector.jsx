@@ -74,7 +74,7 @@ loadModel();
 }, []);
 
 
-// continuously make predictions
+// continuously make predictionsi
 
 React.useEffect(() => {
 
